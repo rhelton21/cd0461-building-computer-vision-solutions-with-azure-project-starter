@@ -1,0 +1,71 @@
+Create and build a person group...
+Processing for ca-dl-avkash-chauhan
+Processing image ca-dl-avkash-chauhan-face1.jpg
+Added face from ca-dl-avkash-chauhan-face1.jpg to ca-dl-avkash-chauhan
+Processing image ca-dl-avkash-chauhan-face2.jpg
+Added face from ca-dl-avkash-chauhan-face2.jpg to ca-dl-avkash-chauhan
+Processing image ca-dl-avkash-chauhan-face3.jpg
+Added face from ca-dl-avkash-chauhan-face3.jpg to ca-dl-avkash-chauhan
+Processing image ca-dl-avkash-chauhan-face4.jpg
+Added face from ca-dl-avkash-chauhan-face4.jpg to ca-dl-avkash-chauhan
+Processing image ca-dl-avkash-chauhan-face5.jpg
+Added face from ca-dl-avkash-chauhan-face5.jpg to ca-dl-avkash-chauhan
+Processing for ca-dl-james-jackson
+Processing image ca-dl-james-jackson-face1.jpg
+Added face from ca-dl-james-jackson-face1.jpg to ca-dl-james-jackson
+Processing image ca-dl-james-jackson-face2.jpg
+Added face from ca-dl-james-jackson-face2.jpg to ca-dl-james-jackson
+Processing image ca-dl-james-jackson-face3.jpg
+Added face from ca-dl-james-jackson-face3.jpg to ca-dl-james-jackson
+Processing image ca-dl-james-jackson-face4.jpg
+Added face from ca-dl-james-jackson-face4.jpg to ca-dl-james-jackson
+Processing image ca-dl-james-jackson-face5.jpg
+No faces detected in ca-dl-james-jackson-face5.jpg. Skipping this image.
+Processing for ca-dl-james-webb
+Processing image ca-dl-james-webb-face1.jpg
+Added face from ca-dl-james-webb-face1.jpg to ca-dl-james-webb
+Processing image ca-dl-james-webb-face2.jpg
+Added face from ca-dl-james-webb-face2.jpg to ca-dl-james-webb
+Processing image ca-dl-james-webb-face3.jpg
+No faces detected in ca-dl-james-webb-face3.jpg. Skipping this image.
+Processing image ca-dl-james-webb-face4.jpg
+Added face from ca-dl-james-webb-face4.jpg to ca-dl-james-webb
+Processing image ca-dl-james-webb-face5.jpg
+No faces detected in ca-dl-james-webb-face5.jpg. Skipping this image.
+Processing for ca-dl-libby-herold
+Processing image ca-dl-libby-herold-face1.jpg
+Added face from ca-dl-libby-herold-face1.jpg to ca-dl-libby-herold
+Processing image ca-dl-libby-herold-face2.jpg
+Added face from ca-dl-libby-herold-face2.jpg to ca-dl-libby-herold
+Processing image ca-dl-libby-herold-face3.jpg
+No faces detected in ca-dl-libby-herold-face3.jpg. Skipping this image.
+Processing image ca-dl-libby-herold-face4.jpg
+Added face from ca-dl-libby-herold-face4.jpg to ca-dl-libby-herold
+Processing image ca-dl-libby-herold-face5.jpg
+No faces detected in ca-dl-libby-herold-face5.jpg. Skipping this image.
+Processing for ca-dl-radha-s-kumar
+Processing image ca-dl-radha-s-kumar-face1.jpg
+Added face from ca-dl-radha-s-kumar-face1.jpg to ca-dl-radha-s-kumar
+Processing image ca-dl-radha-s-kumar-face2.jpg
+Added face from ca-dl-radha-s-kumar-face2.jpg to ca-dl-radha-s-kumar
+Processing image ca-dl-radha-s-kumar-face3.jpg
+No faces detected in ca-dl-radha-s-kumar-face3.jpg. Skipping this image.
+Processing image ca-dl-radha-s-kumar-face4.jpg
+Added face from ca-dl-radha-s-kumar-face4.jpg to ca-dl-radha-s-kumar
+Processing image ca-dl-radha-s-kumar-face5.jpg
+Added face from ca-dl-radha-s-kumar-face5.jpg to ca-dl-radha-s-kumar
+Training the person group...
+Training status: TrainingStatusType.running.
+Training status: TrainingStatusType.succeeded.
+Training succeeded!
+Extracting data from URL: https://mymlworkspace6225174622.blob.core.windows.net/digitalidface/ca-dl-avkash-chauhan.png
+Confidence for AVKASH CHAUHAN CHAUHAN: 0.80101
+Extracting data from URL: https://mymlworkspace6225174622.blob.core.windows.net/digitalidface/ca-dl-james-jackson.png
+Confidence for James Jackson: 0.95137
+Extracting data from URL: https://mymlworkspace6225174622.blob.core.windows.net/digitalidface/ca-dl-james-webb.png
+Confidence for James Webb: 0.64501
+Extracting data from URL: https://mymlworkspace6225174622.blob.core.windows.net/digitalidface/ca-dl-libby-herold.png
+Confidence for Libby Herold: 0.82228
+Extracting data from URL: https://mymlworkspace6225174622.blob.core.windows.net/digitalidface/ca-dl-radha-s-kumar.png
+Confidence for Radha SKumar: 0.71219
+{'AVKASH CHAUHAN CHAUHAN': True, 'James Jackson': True, 'James Webb': True, 'Libby Herold': True, 'Radha SKumar': True}

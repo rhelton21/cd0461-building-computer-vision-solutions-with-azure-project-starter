@@ -1,0 +1,42 @@
+------------------------------------------------------------
+Dear Mr. Avkash Chauhan,
+You are welcome to flight # 234 leaving at 10:00 AM PST from San Francisco to Chicago.
+Your seat number is 20A, and it is confirmed.
+We did not find a prohibited item (lighter) in your carry-on baggage,
+thanks for following the procedure.
+Your identity is verified so please board the plane.
+
+
+------------------------------------------------------------
+Dear Mr. James Webb,
+You are welcome to flight # 234 leaving at 10:00 AM PST from San Francisco to Chicago.
+Your seat number is 1A, and it is confirmed.
+We have found a prohibited item in your carry-on baggage, and it is flagged for removal.
+Your identity is verified. However, your baggage verification failed, so please see a customer service representative.
+
+
+------------------------------------------------------------
+Dear Mr. James Jackson,
+You are welcome to flight # 234 leaving at 10:00 AM PST from San Francisco to Chicago.
+Your seat number is 25B, and it is confirmed.
+We did not find a prohibited item (lighter) in your carry-on baggage.
+Thanks for following the procedure.
+Your identity could not be verified. Please see a customer service representative.
+
+
+------------------------------------------------------------
+Dear Mr.  Libby Herold,
+You are welcome to flight # 234 leaving at 10:00 AM PST from San Francisco to Chicago.
+Your seat number is 3D, and it is confirmed.
+We did not find a prohibited item (lighter) in your carry-on baggage,
+thanks for following the procedure.
+Your identity is verified so please board the plane.
+
+
+------------------------------------------------------------
+Dear Sir/Madam,
+Your boarding pass for flight # 234 leaving at 10:00 AM PST from San Francisco to Chicago has not been validated.
+Please visit our customer service desk for further assistance.
+
+
+------------------------------------------------------------
